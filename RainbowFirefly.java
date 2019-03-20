@@ -24,8 +24,8 @@ public class RainbowFirefly extends Firefly implements Flying
     }
     
     @Override
-    public String fly()
+    public String walk()
     {
-      return "The RainbowFirefly flies at speeds up to \n1000 miles per hour leaving rainbow trails.";  
+      return "The RainbowFirefly walks on two legs";  
     }
 }
